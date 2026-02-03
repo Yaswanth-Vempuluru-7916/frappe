@@ -77,8 +77,8 @@ $disabled-input-height: 22px;
 	--alert-bg-success: var(--green-100);
 
 	// Layout Colors
-	--bg-color: #FFFDD0;
-	--fg-color: #E2DFD2;
+	--bg-color: white;
+	--fg-color: white;
 	--subtle-accent: var(--gray-50);
 	--subtle-fg: var(--gray-100);
 	--navbar-bg: var(--neutral);
@@ -89,9 +89,9 @@ $disabled-input-height: 22px;
 	--control-bg: var(--gray-100);
 	--control-bg-on-gray: var(--gray-200);
 	--awesomebar-focus-bg: var(--fg-color);
-	--modal-bg: #FFF5EE;
+	--modal-bg: white;
 	--toast-bg: var(--modal-bg);
-	--popover-bg: #faf0e6;
+	--popover-bg: white;
 
 	--awesomplete-hover-bg: var(--control-bg);
 
